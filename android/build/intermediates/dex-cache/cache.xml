@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_339e12539aabbcec4e1a57e94bf9351477b803c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_5244a04d045407c206d1cb68d3a79607dbd964f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_6a7f3b83b6724d71a3e6f4bad5db9badbde524e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_8520c64379ffd34de142e9a9706c42e6e860f612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_00445c743e739a1047c4c06588c804e4f712c2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_50566c3e074a72577fc05d1287d575304c6d25e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_a9befe688593cfe28fc809d084fc6b666afae284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_831149c8dfd00692e9802d93c58ba73a5f343938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_68f23f27a3f9e0231921273ea452da6f8a00d302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_00445c743e739a1047c4c06588c804e4f712c2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_c23c57b81443ff47a7676b777a758506d9940a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b61e9ca9193b92c4b5664046083f945f00240acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_144a65b51161a5653b6ea86e491a4fc96e365e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_339e12539aabbcec4e1a57e94bf9351477b803c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_5244a04d045407c206d1cb68d3a79607dbd964f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3752f12a658ca692ec609117c73a40885e8aece7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_1880dccef6f44193514c9135a3deffe8628b1292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_68061578d715b0b4abe0df7f16775f246d7b344e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_c9d5731831cf55474401265987e1847e439a56ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.2_c545585cc382857752a9a5e35cb3562f54083309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidStudio\aStudio\gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f138cc1edf05a031cbf1cda94166d5b36158857d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a21407bb27ef6f999c3e7f808e7e2a3fcf85afe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_cd7391c1567fa7834db6552713d96e22b1b03b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_6a07327c1015f602c790231ac2f06b4e9a9735be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_0862c22eca4d7d150300fa0b3c2f5b7dbf28ec89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_955a9cb1b97fbe16fdcdfd8515ad9c3e265b2e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.2_c545585cc382857752a9a5e35cb3562f54083309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_2ccb5279fe2081fdc125c12b7f870fc5cc9f0e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_c23c57b81443ff47a7676b777a758506d9940a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_029063ca43575f2a97fe963a384d719a98f1559e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8702946898afd077a57d147ef71a86db56611d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_144a65b51161a5653b6ea86e491a4fc96e365e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fdae3c35cffefcc8a45b6b3f3f6447499eceeee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fdae3c35cffefcc8a45b6b3f3f6447499eceeee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_830ac54da3f4450b1bd773afd68bdf7d8d3f2753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a21407bb27ef6f999c3e7f808e7e2a3fcf85afe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_029063ca43575f2a97fe963a384d719a98f1559e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_64762608a88d6a9eeb0f757d415e165e96f794b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_aec8a0237a27a91bef611fbc543e661f5b41d440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\deviceInfoDemo\react-native-device-info\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a191119161c61cb6c69232da7824107a1dbe964c">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\deviceInfoDemo-react-native-device-info-unspecified_650acf02838ef2261de83143565512aa35ea6381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f046aeeb75516ee6511a2f93fa1a3d66098c5a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8702946898afd077a57d147ef71a86db56611d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_1b3899dff702bdce08104d4b9608c98ce12325e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\22945\Desktop\deviceInfoDemo\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f046aeeb75516ee6511a2f93fa1a3d66098c5a45.jar" />
+    </item>
+
+</items>
