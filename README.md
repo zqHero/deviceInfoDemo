@@ -205,7 +205,7 @@ include ':app'
 https://github.com/zqHero/deviceInfoDemo
 
 csdN:
-
+http://blog.csdn.net/u013233097/article/details/79642509
 
 
 官方地址请看：
